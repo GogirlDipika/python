@@ -51,4 +51,5 @@ def check_result_is_valid_or_not(num):
 if __name__ == "__main__":
     num = 11
     temp_var_2 = 15
+    file2 = 4
     check_result_is_valid_or_not(num)
